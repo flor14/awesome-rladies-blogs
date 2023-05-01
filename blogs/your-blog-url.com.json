@@ -1,0 +1,20 @@
+{
+  "title": "Your title", //required
+  "subtitle": "subtitle or tagline", //optional
+  "type": "blog", //required
+  "url": "https://florenciadandrea.com", //required
+  "photo_url": "https://florencia.netlify.app/about/", //required
+  "language": "en", //required
+  "rss_feed": "https://florenciadandrea.com/file.xml", //required
+  "authors": [ //required
+    {
+      "name": "Florencia D'Andrea", //required
+      "social_media": [{
+         "twitter": "cantoflor_87",
+         "mastodon": "@florencia@techhub.social",
+         "github": "flor14",
+         "website": "https://florenciadandrea.com",
+      }]
+    }
+  ]
+}
